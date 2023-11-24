@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'morabba';
+    src: url("fonts/Morabba-Bold.woff");
+}
+html{
+    direction: rtl;
+}
